@@ -102,7 +102,7 @@ main{
 main h1{
     color: var(--cor7);
     font-family: var(--fonte-principal);
-    font-size: 2em;
+    font-size: 1.7em;
     font-weight: bold;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.400);
 }
@@ -110,7 +110,7 @@ main h1{
 main h2{
     font-family: var(--fonte-principal);
     color: var(--cor7);
-    font-size: 1.5em;
+    font-size: 1.4em;
     background-image: linear-gradient(to right, var(--cor1), transparent);
     text-indent: 8px;
     font-weight: bold;
